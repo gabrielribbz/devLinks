@@ -75,6 +75,9 @@ body * {
 .light #switch button {
   animation: slide-in 0.4s forwards;
 }
+#switch button:hover {
+  outline: 8px solid var(--surface-color-hover);
+}
 
 #switch span {
   display: block;
