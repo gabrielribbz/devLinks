@@ -42,6 +42,7 @@ body * {
   width: 112px;
   display: block;
   margin: auto;
+  border-radius: 50%;
 }
 #profile p {
   margin-top: 8px;
